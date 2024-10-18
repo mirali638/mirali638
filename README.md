@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *miralijivani632@gmail.com*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Socials:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mirali-jivani-26495b280/" target="(https://www.linkedin.com/in/mirali-jivani-26495b280/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirali jivani" height="30" width="40" /></a>
 </p>

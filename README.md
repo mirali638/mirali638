@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *React js*
 
-- 👯 I’m looking to collaborate on *An open source projects*
+- 👯 I’m looking to collaborate on *an open source projects*
 
 - 📫 How to reach me *miralijivani632@gmail.com*
 
